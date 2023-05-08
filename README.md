@@ -2,6 +2,8 @@
 
 This repository contains the source code and additional resources for the tutorial on integrating the LangChain.js library with Google Cloud Functions to build powerful and scalable natural language processing (NLP) applications.
 
+More about it in the article: https://medium.com/@zps270/a-comprehensive-guide-to-using-langchain-js-and-google-cloud-functions-for-ai-applications-426e0e83f0e6
+
 ## Contents
 
 - `javascript/`: Code for the JavaScript implementation of the Google Cloud Function with LangChain.js.
