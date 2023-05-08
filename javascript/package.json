@@ -1,0 +1,18 @@
+{
+  "name": "lc_gcf",
+  "version": "1.0.0",
+  "description": "Using LangChain with Google Cloud Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kulaone/LC_GCF.git"
+  },
+  "author": "Daniel Gwerzman",
+  "homepage": "https://github.com/kulaone/LC_GCF#readme",
+  "dependencies": {
+    "langchain": "^0.0.72"
+  }
+}
